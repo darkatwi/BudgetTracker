@@ -19,17 +19,15 @@ Allows you to log incomes and expenses, track your current balance, and manage y
 ## 🏁 Getting Started / How to Use
 
 1. Clone or download the repository to your local machine  
-   ```bash
+
    git clone https://github.com/darkatwi/BudgetTracker.git
    cd BudgetTracker
-````
 
 2. Open **`index.html`** in your browser (double‑click or use a local server)
 3. Start adding incomes or expenses — your balance will update automatically
 
 > Optionally: If you want a local dev server (useful for some browsers), run something like:
 >
-> ```bash
 > # Python 3 example
 > python -m http.server 8000
 > ```
@@ -40,13 +38,13 @@ Allows you to log incomes and expenses, track your current balance, and manage y
 
 ## 📂 Project Structure
 
-```
+
 BudgetTracker/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
+
 
 * `index.html` — main HTML entry point
 * `style.css` — styling
