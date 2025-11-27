@@ -78,7 +78,3 @@ Feel free to check my other repos, give feedback, or use this project as a start
 
 Happy budgeting 💸
 
-```
-
-
-
