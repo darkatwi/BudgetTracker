@@ -74,7 +74,7 @@ Even though this is a simple app, it helps you:
 ## 👨‍💻 About Me
 
 I’m a student and developer, building small but useful projects while learning full‑stack web development.
-Feel free to check my other repos, give feedback, or use this project as a starting point for your own.
+Feel free to check my other repos, give feedback, or use this project as a starting point for your own..
 
 Happy budgeting 💸
 
